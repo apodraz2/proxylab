@@ -1,0 +1,1 @@
+GET http://www.yahoo.com/favicon.ico HTTP/1.0.0
